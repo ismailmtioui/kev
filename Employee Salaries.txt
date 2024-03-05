@@ -1,4 +1,4 @@
-Adelev	 $106,280 
+Adelev	 $200
 Alexw	 $135,049 
 Diegos	 $217,238 
 Gradya	 $63,569 
@@ -13,4 +13,4 @@ Miriamg	 $192,831
 Nestorw	 $57,327 
 Pattif	 $4,511,840 
 Pradeepg	 $94,884 
-Kevstrat	$35,015
+Kevstrat	000
